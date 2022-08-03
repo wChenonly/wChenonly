@@ -1,20 +1,8 @@
 ### Hi there 👋, I'm wChenonly.
 #### Hi 陈思雯老婆 ！！！ `🎉 🎉 🎉 `
 
-
-
-
-
 - I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_wChenonly@qq.com-c14438?style=plastic&link=mailto:wChenonly@qq.com)](mailto:wChenonly@qq.com)
     [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/wChenonly/nav/master/static/images/WeChat.jpg)
-
-- 🚀 I Love PaddlePaddle:
-    [![Build Status](https://travis-ci.org/PaddlePaddle/Paddle.svg?branch=develop)](https://travis-ci.org/PaddlePaddle/Paddle)
-    [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
-    [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
-    [![Release](https://img.shields.io/github/release/PaddlePaddle/Paddle.svg)](https://github.com/PaddlePaddle/Paddle/releases)
-    [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
-
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
