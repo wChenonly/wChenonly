@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm wChenonly.
-#### my wife chensiwen ！！！ `🎉 🎉 🎉 `
+#### My Wife is Chensiwen ！！！ `🎉 🎉 🎉 `
 
 - I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_wChenonly@qq.com-c14438?style=plastic&link=mailto:wChenonly@qq.com)](mailto:wChenonly@qq.com)
     [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/wChenonly/nav/master/static/images/WeChat.jpg)
@@ -75,11 +75,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wChenonly/count.sv
 </table>
 
 <br/>
-<div align="center">
-  <a href="https://raw.githubusercontent.com/livingbody/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
