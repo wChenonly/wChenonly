@@ -1,8 +1,6 @@
-# Hi there 👋, I'm wChenonly.
+# hi there 👋, I'm wChenonly.
 
-## My wife is Chensiwen， A very lovely girl.
-
-- I love to study trending ⚡ technology ⚡, stay hungry stay foolish.
+## my wife is chensiwen， A very lovely girl.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wChenonly/wChenonly/output/github-contribution-grid-snake-dark.svg">
