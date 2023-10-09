@@ -20,7 +20,7 @@ jobs:
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
 
         with:
@@ -28,6 +28,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
