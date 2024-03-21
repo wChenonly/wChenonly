@@ -7,3 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wChenonly/wChenonly/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wChenonly/wChenonly/output/github-snake.svg">
 </picture>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
